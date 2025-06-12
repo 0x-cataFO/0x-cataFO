@@ -5,12 +5,7 @@
 ---
 
 ## 🌟 About Me
-Hi there! I'm Osbert, a passionate self-taught developer who loves creating and exploring the endless possibilities of code. My journey has been one of curiosity and continuous learning, diving deep into:
-
-- 🖥️ **Frontend:** HTML, CSS, JavaScript, React  
-- 🔍 **Backend:** Python Django, Go  
-- 🔗 **Blockchain and DeFi Enthusiast**
-
+Hi there! I'm Osbert, a passionate self-taught developer who loves creating and exploring the endless possibilities of code. My journey has been one of curiosity and continuous learning...
 When I'm not coding, you can find me gaming, researching new trends, or navigating the world of crypto and finances.
 
 ---
