@@ -6,7 +6,7 @@
 
 ## 🌟 About Me
 Hi there! I'm Osbert, a passionate self-taught developer who loves creating and exploring the endless possibilities of code. My journey has been one of curiosity and continuous learning...
-When I'm not coding, you can find me gaming, researching new trends, or navigating the world of crypto and finances.
+When I'm not coding, I could be gaming, researching new trends, or exploring crypto and finances.
 
 ---
 
